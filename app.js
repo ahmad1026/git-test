@@ -5,3 +5,6 @@ let b = 52;
 
 console.log(a+b);
 
+
+salam
+
